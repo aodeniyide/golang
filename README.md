@@ -1,2 +1,0 @@
-# golang-workspace
-Learning go!
